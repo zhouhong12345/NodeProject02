@@ -23,6 +23,6 @@ module.exports=function(grunt){
   grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-contrib-uglify');
 
-  grunt.registerTask('default',['htmlmin','cssmin','uglify']);
+  grunt.registerTask('minify',['htmlmin','cssmin','uglify']);
 };
 
