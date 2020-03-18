@@ -1,0 +1,27 @@
+{
+  "name": "NodeProject02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "enroll.js",
+  "dependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouhong12345/NodeProject02.git"
+  },
+  "keywords": [],
+  "author": "zhouhong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhouhong12345/NodeProject02/issues"
+  },
+  "homepage": "https://github.com/zhouhong12345/NodeProject02#readme"
+}
