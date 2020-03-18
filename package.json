@@ -2,7 +2,7 @@
   "name": "NodeProject02",
   "version": "1.0.0",
   "description": "",
-  "main": "enroll.js",  
+  "main": "enroll.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/zhouhong12345/NodeProject02#readme",
   "devDependencies": {
     "grunt": "^1.1.0",
+    "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-cssmin": "^3.0.0",
     "grunt-contrib-htmlmin": "^3.1.0",
     "grunt-contrib-uglify": "^4.0.1"
