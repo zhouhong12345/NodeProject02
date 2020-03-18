@@ -13,7 +13,6 @@ $(function(){
             return;
         }
     })
-
     //需改进，控件太多怎么办
     $user.focusout(function(){
         if(!validate('#username')){
